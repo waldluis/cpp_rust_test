@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/main.cpp.o -o app  -Wl,-rpath,/home/waldluis/Test/cpp_rust/rust/target/release /home/waldluis/Test/cpp_rust/rust/target/release/librustlib.so 

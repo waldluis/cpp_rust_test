@@ -1,6 +1,0 @@
-/home/waldluis/Test/cpp_rust/build/CMakeFiles/edit_cache.dir
-/home/waldluis/Test/cpp_rust/build/CMakeFiles/rebuild_cache.dir
-/home/waldluis/Test/cpp_rust/build/cpp/CMakeFiles/rustlib_build.dir
-/home/waldluis/Test/cpp_rust/build/cpp/CMakeFiles/app.dir
-/home/waldluis/Test/cpp_rust/build/cpp/CMakeFiles/edit_cache.dir
-/home/waldluis/Test/cpp_rust/build/cpp/CMakeFiles/rebuild_cache.dir
